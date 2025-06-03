@@ -1,8 +1,4 @@
-## Hi there 👋
-### My name is Youssef Mostafa
-- 🌱 I’m currently learning Backend web development
-- 📫 How to reach me: youssefmostafa@gmail.com
-- 😄 Pronouns: He/Him
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=441&api_domain=hackatime.hackclub.com&theme=react&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--
 **yousseftechdev/yousseftechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
