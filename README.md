@@ -1,4 +1,4 @@
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=441&api_domain=hackatime.hackclub.com&theme=react&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=441&api_domain=hackatime.hackclub.com&theme=react&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)<br>
 These stats were being logged since November of 2024*
 <!--
 **yousseftechdev/yousseftechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
