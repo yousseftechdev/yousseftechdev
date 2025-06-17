@@ -4,7 +4,7 @@
 ### GitHub Stats:
 [![YTs's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yousseftechdev\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/yousseftechdev/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
-###Time spent on VSCode (since November of 2024):
+### Time spent on VSCode (since November of 2024):
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=441&api_domain=hackatime.hackclub.com&theme=react&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)<br>
 <!--
 **yousseftechdev/yousseftechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
