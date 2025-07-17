@@ -11,19 +11,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=yousseftech&show_icons=true" />
 </picture>
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=yousseftechdev&api_domain=hackatime.hackclub.com&theme=light&custom_title=Time+spent+on+VSCode+(since+November+of+2024)&layout=compact&cache_seconds=0&langs_count=8">
 <br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.hackclub.dev/api/wakatime?username=yousseftechdev&api_domain=hackatime.hackclub.com&theme=nord&custom_title=Time+spent+on+VSCode+(since+November+of+2024)&layout=compact&cache_seconds=0&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftechdev&langs_count=8&layout=pie&theme=light](https://github-readme-stats.hackclub.dev/api/wakatime?username=yousseftechdev&api_domain=hackatime.hackclub.com&theme=light&custom_title=Time+spent+on+VSCode+(since+November+of+2024)&layout=compact&cache_seconds=0&langs_count=8)"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
-<br>
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=441&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent" />
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=441&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent">
 
 
 
