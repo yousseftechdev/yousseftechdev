@@ -1,6 +1,6 @@
 # Youssef Tech
 ## Teen developer, "A jack of all trades is a master of none, but oftentimes better than a master of one"
-<img src="https://github-readme-stats.vercel.app/api?username=yousseftechdev&show_icons=true&theme=light&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" media="(prefers-color-scheme: transparent), (prefers-color-scheme: transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=yousseftechdev&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" media="(prefers-color-scheme: transparent), (prefers-color-scheme: transparent" />
 <br>
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=441&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent">
 
