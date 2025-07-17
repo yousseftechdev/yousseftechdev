@@ -32,6 +32,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftechdev&langs_count=8&layout=pie&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousseftech&show_icons=true" />
 </picture>
 
 
