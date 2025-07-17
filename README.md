@@ -23,17 +23,8 @@
   />
 </picture>
 <br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftechdev&langs_count=8&layout=pie&theme=nord"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftechdev&langs_count=8&layout=pie&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yousseftech&show_icons=true" />
-</picture>
+https://github-readme-stats.hackclub.dev/api/wakatime?username=441&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent
+
 
 
 <!--
